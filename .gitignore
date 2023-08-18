@@ -1,0 +1,9 @@
+.DS_Store
+.idea
+.vscode
+
+.env
+.vercel
+.parcel-cache
+node_module
+dist
